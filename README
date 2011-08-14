@@ -1,0 +1,17 @@
+What if you are just migrating all the users from you awesome forum software from the year 2000 to a joomla system, or you suspect a not so nice person dumped your database file and you want to make all your users change thier passwords.
+
+
+
+This script is designed to be run from the commandline
+
+/////
+php reregister.php 
+////
+
+Zip the plugin folder and install. The force password plugin is a direct download from http://www.sourcecoast.com/extensions, no changes were made to the pluginat all. 
+
+place reregister.php to root of your joomla install and run. 
+
+This could have been a component or something but it seems to be kinda a one off script so i did the bare minimum.
+
+
